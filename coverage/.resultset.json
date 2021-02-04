@@ -56,23 +56,25 @@
       ],
       "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/models/chore.rb": [
         1,
+        1,
+        1,
         null
       ],
       "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/models/child.rb": [
-        0,
-        0,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
         0,
         null,
-        0,
         null,
-        0,
-        0,
-        null,
-        0,
-        0,
-        0,
-        null,
-        0
+        null
       ],
       "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/controllers/application_controller.rb": [
         0,
@@ -326,6 +328,6 @@
         0
       ]
     },
-    "timestamp": 1612476863
+    "timestamp": 1612476914
   }
 }
