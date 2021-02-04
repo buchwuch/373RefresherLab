@@ -36,6 +36,10 @@
     "coverage": {
       "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/models/child.rb": [
         1,
+        1,
+        1,
+        null,
+        1,
         null,
         null
       ],
@@ -45,8 +49,8 @@
         null
       ],
       "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/models/chore.rb": [
-        0,
-        0
+        1,
+        null
       ],
       "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/models/task.rb": [
         0,
@@ -304,6 +308,6 @@
         0
       ]
     },
-    "timestamp": 1612474680
+    "timestamp": 1612476105
   }
 }
