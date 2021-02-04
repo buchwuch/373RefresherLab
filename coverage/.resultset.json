@@ -34,28 +34,31 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/models/task.rb": [
+      "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/models/chore.rb": [
+        1,
+        1,
         1,
         null,
-        1,
-        1,
-        null,
-        1,
         1,
         null,
         3,
         2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
         null,
         null,
         null
       ],
       "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
-      "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/models/chore.rb": [
-        1,
         1,
         1,
         null
@@ -72,6 +75,21 @@
         null,
         1,
         0,
+        null,
+        null,
+        null
+      ],
+      "/Users/buchman/Documents/CMU/Semester_8/67-373/272HW/app/models/task.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
         null,
         null,
         null
@@ -328,6 +346,6 @@
         0
       ]
     },
-    "timestamp": 1612476914
+    "timestamp": 1612477590
   }
 }
